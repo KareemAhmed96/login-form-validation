@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Validation Login Page</title>
+        <link rel="stylesheet" href="./css/styles.css">
+    </head>
+
+    <body style="background-color:rgba(8, 189, 8, 0.582)">
+        <div class="center">
+            <center>
+                <div id="userMsg" style="visibility: hidden;">Not Registered</div>
+
+                <div id="login-form">
+                    <input id="username" placeholder="username">
+                    <br>
+                    <input id="password" placeholder="password" type="password">
+                    <br>
+                    <button onclick="return validateInput()">LOGIN</button>
+                    <br>
+                    <span id="error" style="color: red; visibility: hidden;">*error</span>
+                    <br><br>
+                    <span style="color: grey">Not registered?</span>
+                    <span>
+                        <a href="https://www.google.com" target="_blank">Create an account</a>
+                    </span>
+                </div>
+            </center>
+        </div>
+    </body>
+    <script src="js/script.js"></script>
+</html>
