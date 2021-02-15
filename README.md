@@ -22,3 +22,23 @@ This is to insure the user enters an **8-character password**
   <img width=100% src="https://github.com/KareemAhmed96/login-form-validation/blob/main/imgs/3-password-characters-val.png">
 </p>
 
+_________________________________________________________________________________________
+This is to insure the user enters a password that includes **uppercase letters**
+
+<p align="center">
+  <img width=100% src="https://github.com/KareemAhmed96/login-form-validation/blob/main/imgs/4-password-uppercase-val.png">
+</p>
+
+_________________________________________________________________________________________
+This is to insure the user enters a password that includes **lowercase letters**
+
+<p align="center">
+  <img width=100% src="https://github.com/KareemAhmed96/login-form-validation/blob/main/imgs/5-password-lowercase-val.png">
+</p>
+
+_________________________________________________________________________________________
+This is to insure the user enters a password that includes **numbers**
+
+<p align="center">
+  <img width=100% src="https://github.com/KareemAhmed96/login-form-validation/blob/main/imgs/6-password-numbers-val.png">
+</p>
