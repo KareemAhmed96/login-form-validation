@@ -1,0 +1,44 @@
+.center {
+    margin: 300 auto;
+    width: 500px;
+    height: 370px;
+    background-color: white;
+    box-shadow: 0 0 15px grey;
+}
+
+#userMsg {
+    color: rgb(93, 93, 93);
+    font-size: x-large;
+}
+
+input {
+    background-color: rgba(128, 128, 128, 0.096);
+    border-color: rgba(128, 128, 128, 0.02);
+    box-shadow: 0 0 30px rgba(128, 128, 128, 0.5);
+    padding: 20;
+    padding-right: 70;
+    margin: 10;
+}
+
+button {
+    border-color: rgba(128, 128, 128, 0.144);
+    box-shadow: 0 0 10px grey;
+    background-color: rgba(1, 161, 55, 0.781);
+    font-family: Arial;
+    color: white;
+    margin-top: 15;
+    margin-bottom: 30;
+    padding: 20;
+    padding-left: 105;
+    padding-right: 105;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+::placeholder {
+    color: rgba(128, 128, 128, 0.418);
+    opacity: 1;
+} 
